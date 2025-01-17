@@ -1,5 +1,5 @@
 Hello Git!!!
-Hello GitHub!!!
+Hello GitLab!!!
 역도선수
 메시
 호날두
