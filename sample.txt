@@ -2,6 +2,4 @@ Hello Git!!!
 Hello GitHub!!!
 Hello GitLab!!!
 Hello BitBucket!!!
-역도선수
-메시
-호날두
+practice
